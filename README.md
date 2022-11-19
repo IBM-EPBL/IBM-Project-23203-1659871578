@@ -45,18 +45,18 @@ To develop an end-to-end web application capable of displaying the current job o
     - [X] Data Flow Diagram
    
 - [X] Implementing Web Application
-    - [X ] Create UI to interact with Application
-    - [ ] Create IBM DB2 and connect with Python
+    - [X] Create UI to interact with Application
+    - [X] Create IBM DB2 and connect with Python
     
-- [ ] Integrating Sendgrid Service
-    - [ ] Sendgrid integration with Python
+- [X] Integrating Sendgrid Service
+    - [X] Sendgrid integration with Python
     
-- [ ] Developing a ChatBot
-    - [ ] Build ChatBot and Integrate with App
+- [X] Developing a ChatBot
+    - [X] Build ChatBot and Integrate with App
 
-- [ ] Project Planning Phase
-    - [ ] Prepare Milestone and Activity List
-    - [ ] Sprint Delivery Plan
+- [X] Project Planning Phase
+    - [X] Prepare Milestone and Activity List
+    - [X] Sprint Delivery Plan
 
 - [ ] Project Development Phase
     - [ ] Delivery of Sprint-1
@@ -64,7 +64,7 @@ To develop an end-to-end web application capable of displaying the current job o
     - [ ] Delivery of Sprint-3
     - [ ] Delivery of Sprint-4
 
-- [ ] Deployment of App in IBM Cloud
-    - [ ] Containerize the App
-    - [ ] Upload Image to IBM Container Registry
-    - [ ] Deploy in Kubernetes Cluster
+- [X] Deployment of App in IBM Cloud
+    - [X] Containerize the App
+    - [X] Upload Image to IBM Container Registry
+    - [X] Deploy in Kubernetes Cluster
